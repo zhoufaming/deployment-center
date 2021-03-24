@@ -108,7 +108,7 @@ qrcode==5.0.1
 registries==0.1
 requestbuilder==0.7.1
 requests==2.6.0
-rsa==3.4.1
+rsa==4.1
 rtslib-fb==2.1.63
 schedutils==0.4
 seobject==0.1
