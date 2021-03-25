@@ -103,7 +103,7 @@ pytz==2016.10
 pyudev==0.15
 pyusb==1.0.0b1
 pyxattr==0.5.1
-PyYAML==3.10
+PyYAML==5.4
 qrcode==5.0.1
 registries==0.1
 requestbuilder==0.7.1
