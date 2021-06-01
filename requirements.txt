@@ -124,7 +124,7 @@ targetcli-fb===2.1.fb46
 tzlocal==1.5.1
 unicodecsv==0.14.1
 urlgrabber==3.10
-urllib3==1.10.2
+urllib3==1.26.5
 urwid==1.1.1
 uWSGI==2.0.18
 vine==1.2.0
